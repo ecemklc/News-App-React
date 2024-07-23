@@ -1,5 +1,8 @@
 # News App
 
+![news](https://github.com/user-attachments/assets/2b6221ac-5e75-44ae-9002-6dc5bcea66a6)
+
+
 This application provides a platform to view news articles based on different categories. Users can browse news from various categories and filter news by country.
 
 ## Features
